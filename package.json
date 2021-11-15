@@ -1,7 +1,7 @@
 {
     "name": "@stenito/tiny",
     "version": "2.0.0",
-    "description": "Removes all spaces from some string",
+    "description": "Removes all spaces from a string",
     "license": "MIT",
     "repository": "stenito/tiny",
     "main": "index.js",
